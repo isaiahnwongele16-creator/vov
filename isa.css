@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hover:hover{
+    cursor: crosshair;
+    background-color: blanchedalmond;
+    width: 10px;
+}
